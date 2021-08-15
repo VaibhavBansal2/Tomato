@@ -265,9 +265,9 @@ margin-left: 120px;
     height: 40px;
     width: 40px;
 } */
-/* #number{
-    margin-left: 5px;
-} */
+#number{
+    display: flex;
+}
 footer{
     background: black;
     color: white;
